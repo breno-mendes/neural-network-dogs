@@ -32,7 +32,7 @@ Exemplo de adição de imagem:
 
 ## Roboflow
 
-Link do Dataset: [Rock Paper Scissors](https://universe.roboflow.com/breno-03sky/racas-de-cachorros)
+Link do Dataset: [Raças de Cachorros](https://universe.roboflow.com/breno-03sky/racas-de-cachorros)
 
 ## HuggingFace
 
