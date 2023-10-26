@@ -5,9 +5,9 @@
 -   Breno Araújo
 -   Filipe Pontes
 
-| **Tipo de Projeto**      | **Modelo Selecionado** | **Linguagem**         |
-| ------------------------ | ---------------------- | --------------------- |
-| Classificação de Imagens | ex.: YOLOv5            | PyTorch ou Tensorflow |
+| **Tipo de Projeto**      | **Modelo Selecionado** | **Linguagem** |
+| ------------------------ | ---------------------- | ------------- |
+| Classificação de Imagens | ResNet34               | PyTorch       |
 
 ## Performance
 
@@ -32,8 +32,9 @@ Exemplo de adição de imagem:
 
 ## Roboflow
 
-Link do Dataset: [Raças de Cachorros](https://universe.roboflow.com/breno-03sky/racas-de-cachorros)
+Dataset no Roboflow: [Raças de Cachorros](https://universe.roboflow.com/breno-03sky/racas-de-cachorros)
 
 ## HuggingFace
 
+Modelo no HuggingFace: [Dog Breed Classification Model using ResNet34](https://huggingface.co/brenomendes/dog-breeds/blob/main/Dog_Breed_Classification_Model_using_ResNet34.ipynb)
 Nessa seção você deve publicar o link para o HuggingFace
