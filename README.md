@@ -70,9 +70,8 @@ O modelo treinado possui performance de **100%**.
 
 ### Evidências do treinamento
 
-Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
-
 ![Training and Validation Loss/Accuracy](https://github.com/breno-mendes/neural-network-dogs/blob/master/img/Model%20Fixed%20Feature.png?raw=true)
+![Matriz Confusão](https://github.com/breno-mendes/neural-network-dogs/blob/master/img/Matriz%20de%20Confusao.png?raw=true)
 
 ## Roboflow
 
