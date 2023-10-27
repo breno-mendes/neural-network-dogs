@@ -70,8 +70,8 @@ O modelo treinado possui performance de **100%**.
 
 ### Evidências do treinamento
 
-![Training and Validation Loss/Accuracy](https://github.com/breno-mendes/neural-network-dogs/blob/master/img/Model%20Fixed%20Feature.png?raw=true)
-![Matriz Confusão](https://github.com/breno-mendes/neural-network-dogs/blob/master/img/Matriz%20de%20Confusao.png?raw=true)
+![Training and Validation Loss/Accuracy](https://github.com/breno-mendes/neural-network-dogs/blob/master/assets/Model%20Fixed%20Feature.png?raw=true)
+![Matriz Confusão](https://github.com/breno-mendes/neural-network-dogs/blob/master/assets/Matriz%20de%20Confusao.png?raw=true)
 
 ## Roboflow
 
